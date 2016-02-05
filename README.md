@@ -11,7 +11,7 @@ Check out how the test looks from candidate's perspective: [Candidate campaign p
 
 This repo contains an example project for Scala with SBT, below you can find a detailed guide for creating your own programming project. 
 
-**Please make sure to read our [Getting started with programming projects](https://docs.devskiller.com/programming_task/index.html) guide first.**
+**Please make sure to read our [Getting started with programming projects](https://docs.devskiller.com/programming_tasks/index.html) guide first.**
 
 ## Technical details for Scala with SBT support
 
